@@ -1,4 +1,4 @@
-https://get.activated.win
+https://get.mcalec.dev
 =================
 
-This repository contains `irm https://get.activated.win | iex` loader script.
+This repository contains `irm https://get.mcalec.dev | iex` loader script.
